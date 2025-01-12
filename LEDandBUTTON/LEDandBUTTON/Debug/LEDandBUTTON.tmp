@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\loren\Desktop\ELECTRÓNICA\AVR's\ENSAMBLADOR\LEDandBUTTON\LEDandBUTTON\LEDandBUTTON\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\loren\Desktop\ELECTRÓNICA\AVR's\ENSAMBLADOR\LEDandBUTTON\LEDandBUTTON\LEDandBUTTON\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\loren\Desktop\ELECTRÓNICA\AVR's\ENSAMBLADOR\LEDandBUTTON\LEDandBUTTON\LEDandBUTTON\Debug\LEDandBUTTON.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LEDandBUTTON.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LEDandBUTTON.map</FILE>
+  <FILE>LEDandBUTTON.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <LOOP><FILE>C:\Users\loren\Desktop\ELECTRÓNICA\AVR's\ENSAMBLADOR\LEDandBUTTON\LEDandBUTTON\LEDandBUTTON\main.asm</FILE><LINE>15</LINE></LOOP>
+  <true><FILE>C:\Users\loren\Desktop\ELECTRÓNICA\AVR's\ENSAMBLADOR\LEDandBUTTON\LEDandBUTTON\LEDandBUTTON\main.asm</FILE><LINE>26</LINE></true>
+ </LABELS>
+</ASSEMBLER_INFO>
